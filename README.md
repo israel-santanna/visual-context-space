@@ -1,2 +1,9 @@
 # visual-context-space
-An experiment with creating a vector space from the COCO dataset context
+An experiment with object's context in the COCO dataset
+
+## Dependencies
+
+Python 3
+[Pandas](https://pandas.pydata.org/)
+[NumPy](http://www.numpy.org)
+[COCO API](https://github.com/cocodataset/cocoapi)
